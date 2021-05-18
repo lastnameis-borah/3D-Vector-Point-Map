@@ -13,7 +13,7 @@ void setup(){
   RG.init(this);
   RG.ignoreStyles(ignoringStyles);
   RG.setPolygonizer(RG.ADAPTATIVE);
-  grp = RG.loadShape("D:/Programming/Python/Pencil sketch/me.svg");
+  grp = RG.loadShape("your file path/filename.svg");
   grp.centerIn(g, 100, 1, 1);
   
   pointPaths = grp.getPointsInPaths();  
