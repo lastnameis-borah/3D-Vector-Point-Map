@@ -1,6 +1,6 @@
 # Generative-art by lastnameis-borah
-## 1. Make sure to install geomerative library in processing (Sketch -> Import Library -> Add Library)
-## 2. Add path to your own .svg file
+### 1. Make sure to install geomerative library in processing (Sketch -> Import Library -> Add Library)
+### 2. Add path to your own .svg file
 
 
 
